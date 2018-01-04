@@ -1,6 +1,6 @@
 # Code Book for tidydata.txt
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in `itidydata.txt`.
 
 ## Variable types
 activityName variable is factor type.
@@ -9,8 +9,8 @@ All the other variables are numeric type.
 
 ## Factored Variables
 
-*`subject` - The ID of the subject observed
-*`activityName` - The common name for the activity performed by the subject when the observation was taken
+subject - The ID of the subject observed
+activityName - The common name for the activity performed by the subject when the observation was taken
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
